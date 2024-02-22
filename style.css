@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgba(121, 139, 16, 0.151);
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(122, 124, 16, 0.726);
+
+}
+
+
+section{
+    width: 80%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px auto;
+    padding: 40px;
+    width: 60%;
+    
+    
+
+}
+
+img{
+    width: 20%;
+    height: 200px;
+    margin: 10px 30px 10px 10px;
+    justify-content: center;
+}
